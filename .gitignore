@@ -1,0 +1,31 @@
+# 컴파일된 바이너리 및 라이브러리 파일 등
+*.exe
+*.dll
+*.so
+*.o
+
+# 사진, 작업물 관련 
+*.html
+*.png 
+ 
+# IDE 임시 파일 등
+.vscode/
+.idea/
+
+# 로그 파일 등
+log/
+logs/
+
+# 캐시 파일 등
+__pycache__/
+node_modules/
+.ipynb_checkpoints/
+.DS_Store
+
+# data 폴더 내 
+etc/
+img/
+
+# Virutual Env 
+skhu_env/ 
+.python-version
