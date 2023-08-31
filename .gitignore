@@ -25,6 +25,7 @@ node_modules/
 # data 폴더 내 
 etc/
 img/
+docs/
 
 # Virutual Env 
 skhu_env/ 
